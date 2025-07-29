@@ -24,3 +24,5 @@ num1 = float(input("Enter first number: "))
             result = "Error (division by zero)"
     else:
         result = "Invalid operation"
+
+ print("Result:", result)
