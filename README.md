@@ -26,3 +26,4 @@ num1 = float(input("Enter first number: "))
         result = "Invalid operation"
 
  print("Result:", result)
+ print("Thank You!")
