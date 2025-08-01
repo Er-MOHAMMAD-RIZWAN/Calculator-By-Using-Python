@@ -27,3 +27,5 @@ num1 = float(input("Enter first number: "))
 
  print("Result:", result)
  print("Thank You!")
+
+ # Run the calculator
