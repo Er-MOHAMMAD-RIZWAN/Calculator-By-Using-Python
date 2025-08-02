@@ -29,3 +29,4 @@ num1 = float(input("Enter first number: "))
  print("Thank You!")
 
  # Run the calculator
+ calculator()
